@@ -1,0 +1,18 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Final_project.srcs/sources_1/new/PE.vhd" \
+"../../../../Final_project.srcs/sources_1/new/samm.vhd" \
+"../../../../Final_project.srcs/sources_1/new/PE_T.vhd" \
+"../../../../Final_project.srcs/sources_1/new/PE_L.vhd" \
+"../../../../Final_project.srcs/sources_1/new/PE_TL.vhd" \
+"../../../../Final_project.srcs/sources_1/new/reg.vhd" \
+"../../../../Final_project.srcs/sources_1/new/MAC2Reg.vhd" \
+"../../../../Final_project.srcs/sources_1/new/ram.vhd" \
+"../../../../Final_project.srcs/sources_1/new/controller.vhd" \
+"../../../../Final_project.srcs/sources_1/new/control_MM.vhd" \
+"../../../../Final_project.srcs/sim_1/new/samm_testbench.vhd" \
+"../../../../Final_project.srcs/sim_1/new/testbench.vhd" \
+"../../../../Final_project.srcs/sim_1/new/reg_tb.vhd" \
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,24 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/crexiz/Final_project working3/Final_project.srcs/sources_1/new/samm.vhd,1555467506,vhdl,,,,samm,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sim_1/new/reg_tb.vhd,1555612336,vhdl,,,,reg_tb,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sim_1/new/samm_testbench.vhd,1556142560,vhdl,,,,samm_testbench,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sim_1/new/testbench.vhd,1555769538,vhdl,,,,testbench,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/4delay.vhd,1556073812,vhdl,,,,delayfour,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/MAC2Reg.vhd,1556549244,vhdl,,,,mac2reg,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/PE.vhd,1555467416,vhdl,,,,pe,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/PE_L.vhd,1555467410,vhdl,,,,pe_l,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/PE_T.vhd,1555467401,vhdl,,,,pe_t,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/PE_TL.vhd,1556550013,vhdl,,,,pe_tl,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/control_MM.vhd,1556547136,vhdl,,,,control_mm,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/controller.vhd,1556550521,vhdl,,,,ram,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/delayControl.vhd,1556549237,vhdl,,,,delaycontrol,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/delayFive.vhd,1556073816,vhdl,,,,delayfive,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/delayOne.vhd,1556550005,vhdl,,,,delayone,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/delaySix.vhd,1556073822,vhdl,,,,delaysix,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/delayThree.vhd,1556073807,vhdl,,,,delaythree,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/delayTwo.vhd,1556550002,vhdl,,,,delaytwo,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/ram.vhd,1556044585,vhdl,,,,ramblock,,,,,,,,
+/home/crexiz/VHDL_FINAL_WORKING/Final_project.srcs/sources_1/new/reg.vhd,1556548513,vhdl,,,,reg,,,,,,,,
